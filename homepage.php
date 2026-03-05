@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>This is new</h1>
-    <button>Send</button>
+    <button>Main Button</button>
 </body>
 </html>
