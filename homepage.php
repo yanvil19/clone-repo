@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>This is new</h1>
+    <button>Send</button>
 </body>
 </html>
